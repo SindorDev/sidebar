@@ -1,0 +1,9 @@
+
+
+.file_input{
+    appearance: none;
+    font-size: 42px;
+    position: absolute;
+    width: 100px;
+    opacity: 0;
+}
